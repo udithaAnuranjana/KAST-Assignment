@@ -111,7 +111,7 @@ class VisaCardView extends StatelessWidget {
           ],
         ),
         // Logo
-        Image.asset('assets/images/card_logo.png', width: 42)
+        Image.asset('assets/Images/card_logo.png', width: 42)
       ],
     );
   }
